@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-left: 30px;
+}
+.xcountry{
+    width: 200px;
+    height:200px;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+   text-align: center;
+   font-weight: 600;
+   font-size: 20px;
+}
+
+.imgSrc{
+     width: 150px;
+    height: 180px;
+    padding: 10px;
+}
